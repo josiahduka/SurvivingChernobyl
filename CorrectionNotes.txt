@@ -1,0 +1,5 @@
+﻿Finished
+	-test the game; especially the closet and office portion
+
+Run 1
+	-hospital method...reword it

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurvivingChernobyl", "SurvivingChernobyl.csproj", "{DD684D68-97D5-4CC5-A55F-914EDA6955C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD684D68-97D5-4CC5-A55F-914EDA6955C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD684D68-97D5-4CC5-A55F-914EDA6955C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD684D68-97D5-4CC5-A55F-914EDA6955C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD684D68-97D5-4CC5-A55F-914EDA6955C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {298A03BF-E1AB-45A8-A3FA-A68E417A9DED}
+	EndGlobalSection
+EndGlobal
